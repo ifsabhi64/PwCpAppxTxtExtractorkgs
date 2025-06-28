@@ -3,7 +3,7 @@ import os
 import requests
 from pyrogram import filters
 from Extractor import app
-from config import SUDO_USERS
+from config import auth_users
 
 
 async def khan_login(app, message):
