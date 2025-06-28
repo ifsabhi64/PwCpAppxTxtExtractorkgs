@@ -7,7 +7,7 @@ Use 8080 port in main.py (line 57) ,if you're deploying on koyeb.
 
 ## Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ifsabhi64/PwCpAppxTxtExtractorkgs)
 
 ## Deploy To Koyeb
 
@@ -15,4 +15,4 @@ Use 8080 port in main.py (line 57) ,if you're deploying on koyeb.
 
 ## Deploy To Render
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Tushar557845/ADVANCE-TXT-UPLOADER)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ifsabhi64/PwCpAppxTxtExtractorkgs)
